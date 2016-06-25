@@ -1,0 +1,111 @@
+/*body{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+#inputDiv{
+	margin: auto;
+	width: 40%;
+	padding: 10px;
+}
+
+input[type="text"] {
+	color: #53139C;
+	display: block;
+	margin: 0;
+	width: 95%;
+	font-family: sans-serif;
+	font-size: 18px;
+	appearance: none;
+	box-shadow: none;
+	border-radius: none;
+	padding: 10px;
+	border: solid 1px #dcdcdc;
+	transition: box-shadow 0.3s, border 0.3s;
+	-moz-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+input[type="text"]:focus {
+	background-color: #FAFAFA;
+	outline: none;
+}
+input[type=submit]{
+	-webkit-border-radius: 28;
+	-moz-border-radius: 28;
+	border-radius: 28px;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 19px;
+	background: #3498db;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	outline: none;
+}
+input[type=submit]:hover {
+	background: #3cb0fd;
+	outline: none;
+  	text-decoration: none;
+  	cursor: pointer;
+}
+
+#errorMsg{
+	color:#555;
+    border-radius:10px;
+    font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    border:1px solid #f5aca6;
+    padding:10px 10px 10px 36px;
+	margin: auto;
+	width: 30%;
+	padding: 10px;
+	color: red;
+	background:#ffecec no-repeat 8px 45%;
+}
+
+#errorMsg span{
+	font-weight:bold;
+    text-transform:uppercase;
+}*/
+
+#hereIsTheList{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-size: 40px;
+	padding: 0px 50px;
+	text-align: center;
+	text-transform: uppercase;
+	text-rendering: optimizeLegibility;
+	color: #2c2c2c;
+	letter-spacing: .05em;
+	text-shadow: 
+	4px 4px 0px #d5d5d5, 
+	3px 3px 0px rgba(0, 0, 0, 0.2);
+}
+/*
+.restaurantDiv{
+	margin-left: 15px;
+	width: 30%;
+	height: 250px;
+	display: inline-block;
+}
+
+.restaurantDiv img{
+	float: right;
+	width: 250px;
+	height: 200px;
+	opacity: 0.8;
+}
+
+.restaurantDiv img:hover{
+	opacity: 1;
+}
+
+#nameDiv{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+#addressDiv{
+	font-style: italic;
+}*/
